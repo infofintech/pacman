@@ -1,1 +1,1 @@
-Pacman=||=pacman.icon.png=||=window.location.href='pacman.htm';
+Pacman|[1]|pacman.icon.png|[1]|window.location.href='pacman.htm';
