@@ -1,1 +1,1 @@
-Pacman|[1]|pacman.icon.png|[1]|window.location.href='pacman.htm';
+title|[>]|Pacman|[1]|favicon|[>]|pacman.icon.png|[1]|run|[>]|window.location.href='pacman.htm';
