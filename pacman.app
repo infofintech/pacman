@@ -1,1 +1,0 @@
-title|[>]|Pacman|[1]|favicon|[>]|pacman.icon.png|[1]|run|[>]|window.location.href='pacman.htm';
